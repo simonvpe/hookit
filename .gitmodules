@@ -1,0 +1,3 @@
+[submodule "hookso"]
+	path = hookso
+	url = https://github.com/simonvpe/hookso
